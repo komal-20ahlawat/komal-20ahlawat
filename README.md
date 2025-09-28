@@ -8,7 +8,10 @@
 <p align="center">
   <i>Crafting code & creating cool things 🚀</i>
 </p>
-## 👋 About Me
+## 👋 About Me  <p align="center">
+  <img src="https://www.shutterstock.com/shutterstock/photos/718270843/display_1500/stock-vector-hand-drawn-word-about-me-lettering-design-for-posters-t-shirts-cards-invitations-stickers-718270843.jpg" alt="About Me" width="200" />
+</p>
+
 
 Hi! I’m **Komal**, a passionate software developer who loves turning ideas into reality through code.  
 I enjoy solving challenging problems and continuously learning new technologies.    
