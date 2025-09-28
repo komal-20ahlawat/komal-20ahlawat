@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Welcome" width="400"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Welcome to my profile" width="400" />
 </p>
 
 <h1 align="center">Hey there, I'm KOMAL 👋</h1>
@@ -48,9 +48,8 @@
 > ---
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Thank You Panda" width="300" />
+  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" alt="Thank You" width="300" />
 </p>
 
 
