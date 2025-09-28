@@ -8,6 +8,13 @@
 <p align="center">
   <i>Crafting code & creating cool things 🚀</i>
 </p>
+## 👋 About Me
+
+Hi! I’m **Komal**, a passionate software developer who loves turning ideas into reality through code.  
+I enjoy solving challenging problems and continuously learning new technologies.    
+When I’m not coding, you’ll find me sketching, reading, or exploring nature.  
+I believe in clean, efficient code and writing with both the machine and humans in mind.  
+Always eager to collaborate on exciting projects and open to new opportunities.
 
 ---
 ## 💻 Tech Stack & Skills
