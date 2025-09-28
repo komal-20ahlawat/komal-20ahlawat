@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/01/31/21/23/welcome-2020117_960_720.png" alt="Welcome" width="400" />
+  <img src="https://media.tenor.com/wPudCfjCrD8AAAAM/penguin-hello.gif" alt="Penguin Hello" width="300" />
 </p>
 
 <h1 align="center">Hey there, I'm KOMAL 👋</h1>
