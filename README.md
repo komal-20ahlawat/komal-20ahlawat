@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Welcome to my profile" width="400" />
+  <img src="https://i.imgur.com/5b6QJXc.png" alt="Welcome" width="400" />
 </p>
 
 <h1 align="center">Hey there, I'm KOMAL 👋</h1>
