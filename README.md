@@ -54,6 +54,10 @@ Always eager to collaborate on exciting projects and open to new opportunities.
 ---
 
 > _“Keep calm and code on!!.”_
+> <p align="center">
+  <img src="https://wallpapers.com/images/hd/keep-calm-and-keep-coding-ysb1jwkfm4fx7hhl.jpg" alt="Keep Calm and Keep Coding" width="300" />
+</p>
+
 >
 > ---
 ---
