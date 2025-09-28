@@ -1,16 +1,65 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Welcome" width="400"/>
+</p>
 
-<!--
-**komal-20ahlawat/komal-20ahlawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there, I'm KOMAL 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>Crafting code & creating cool things 🚀</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 💻 Tech Stack & Skills
+
+| Skill          | Proficiency              |
+|----------------|--------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" /> Python         | 🟩🟩🟩🟩🟩                 |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" /> HTML/CSS          | 🟩🟩🟩⬜⬜                 |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" /> C++         | 🟩🟩🟩⬜⬜                 |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" /> Git & GitHub            | 🟩🟩🟩⬜⬜                 |
+
+
+## 🌟 Fun Facts About Me
+
+- 🎵 Music lover   
+- 🎨 loves to draw! 
+- 📚 Always learning new things  
+- ☕ Coffee addict
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=komal-20ahlawat&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+
+---
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/komal-43101737b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/_ocean.ic_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+> _“Keep calm and code on!!.”_
+>
+> ---
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Thank You Panda" width="300" />
+</p>
+
+
+
+
