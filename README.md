@@ -64,8 +64,9 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNXEzZW1id3FzcTJyeDZ1YzZvaHBsZzFjN2M1czYwZzgwZ2hoOTV5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L9Q2rzzBHrfv4a1y4h/200w.gif" alt="Cute GIF" width="300" />
 </p>
-[![An image of @komal20ahlawat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/komal20ahlawat)](https://holopin.io/@komal20ahlawat)
 
+
+[![An image of @komal20ahlawat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/komal20ahlawat)](https://holopin.io/@komal20ahlawat)
 
 
 
